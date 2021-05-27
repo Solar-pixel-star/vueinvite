@@ -17,6 +17,9 @@ export default {
 body {
   background: linear-gradient(blueviolet, blue);
 }
+a {
+  color: teal;
+}
 
 
 h1 {
