@@ -14,8 +14,8 @@ export default {
 </script>
 
 <style>
-template {
-  background-color: black;
+body {
+  background-color:rgb(250, 28, 65);
 }
 
 
