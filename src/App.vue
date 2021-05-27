@@ -15,7 +15,7 @@ export default {
 
 <style>
 body {
-  background-color:rgb(250, 28, 65);
+   background: linear-gradient(linear-gradient(45deg,#B6C1D4,#EC68B1));
 }
 
 
