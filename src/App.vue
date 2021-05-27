@@ -14,8 +14,8 @@ export default {
 </script>
 
 <style>
-body {
-  color: black;
+template {
+  background-color: black;
 }
 
 
