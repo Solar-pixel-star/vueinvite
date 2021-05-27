@@ -5,6 +5,8 @@
   </div>
 </template>
 
+<title>Function Invite</title>
+
 <script>
 
 export default {
