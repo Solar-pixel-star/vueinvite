@@ -20,7 +20,7 @@ template {
 
 
 h1 {
-  color: white;
+  color: cyan;
 }
 
 </style>
