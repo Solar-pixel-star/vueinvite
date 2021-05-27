@@ -5,12 +5,14 @@
   </div>
 </template>
 
-<title>Function Invite</title>
 
 <script>
 
 export default {
   name: 'App',
+  metaInfo: {
+    title: 'Invite Here!'
+  },
   components: {},
 }
 </script>
